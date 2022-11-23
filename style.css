@@ -452,8 +452,8 @@ header .follow a:hover{
     width: 100%;
     object-fit: cover;
     border-radius: .5rem;
-    /*position: relative;
-    z-index: inherit;*/
+    position: relative;
+    z-index: inherit;
 }
 
 .portfolio .box-container .box h3{
